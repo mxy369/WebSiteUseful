@@ -16,12 +16,9 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-### <s>即将开放的 REPO</s>
+### 特别推荐
 
-长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
-***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
-
-**找工作与就业黑名单及此机构运作方式概览repo现已放出：https://github.com/loremwalker/LostMandarin**
+只顾翻出来看外面的世界是不够的，社会上还有中介、诈骗、培训、传销等公司各种套路我们。因此，特别制作了关于此类公司的运作流程、用例需求、利用PUA人性操控术来谋利的报告及黑名单的repo；有兴趣的话，支持一下打赏个star给这个 [LostMandarin](https://github.com/loremwalker/LostMandarin) ，非常感谢你们!
 
 
 ## 科学上网
@@ -34,7 +31,7 @@
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
-<pre>uos：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
+<pre>s：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
 
 ## 致谢
 
@@ -137,6 +134,13 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/WebSiteUseful/sponsor/7/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/WebSiteUseful/sponsor/8/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/WebSiteUseful/sponsor/9/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/9/avatar.svg"></a>
+
+
+### <s>即将开放的 REPO</s>
+
+长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
+***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
+
 
 -->
 
